@@ -22,8 +22,6 @@ const Experience = () => {
           <h5>2020- 2022</h5>
           <p>- DeFi</p>
           <p>- NFT</p>
-          <p>- play2earn</p>
-          <p>- web3</p>
           <p> - dApp/NFT minting app</p>
         </div>
         <div className='exp-3'>

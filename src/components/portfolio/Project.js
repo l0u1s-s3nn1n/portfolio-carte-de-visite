@@ -42,7 +42,8 @@ class Project extends Component {
                                                 <a href={source} rel="noopener noreferrer" className='button' target="_blank">Code source</a>
                                             </div>
                                         </div>
-
+                                        
+                                        <img src={picture} alt="projet"/>
                                         <p className='text'>{info}</p>
 
 

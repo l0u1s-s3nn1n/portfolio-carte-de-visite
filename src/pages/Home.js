@@ -11,10 +11,10 @@ const Home = () => {
                         
                     <div className="rocket">
                         <div className="rocket-body">
-                            <div class="body"></div>
-                            <div class="fin fin-left"></div>
-                            <div class="fin fin-right"></div>
-                            <div class="window"></div>
+                            <div className="body"></div>
+                            <div className="fin fin-left"></div>
+                            <div className="fin fin-right"></div>
+                            <div className="window"></div>
                         </div>
                         <div className="exhaust-flame"></div>
                             <ul className="exhaust-fumes">
